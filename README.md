@@ -1,16 +1,20 @@
-# task_5
+# Flutter task_5 Петров Павел Константинович
 
-A new Flutter project.
+### Создание проекта
+1. Создал проект на Flutter, взяв за основу предыдущий
+2. Добавил bottomNavigationBar 
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/1042f271-45e1-47d1-ad4c-847400385c13)
 
-This project is a starting point for a Flutter application.
+3. Сделал GridView для карточек товаров
+4. Реализовал добавление товаров в избранное по нажатию на иконку
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/user-attachments/assets/772c490c-a5a7-490b-8826-0b50225b0eae)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+5. Создал экран с избранными товарами
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/15f0b2c2-6b8c-4a4f-bd8e-4bf8ec1cf845)
+
+6. Сделал заглушку для экрана профиля
+
+![image](https://github.com/user-attachments/assets/bc9b0191-d2c2-4dc9-be4f-535711424242)
